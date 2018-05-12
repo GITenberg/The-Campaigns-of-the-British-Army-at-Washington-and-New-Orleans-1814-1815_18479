@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8056
     wikipedia: http://en.wikipedia.org/wiki/George_Robert_Gleig
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18479#The-Campaigns-of-the-British-Army-at-Washington-and-New-Orleans-1814-1815
 gutenberg_issued: '2006-06-01'
 gutenberg_type: Text
 identifiers:
