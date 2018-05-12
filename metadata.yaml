@@ -1,0 +1,31 @@
+_repo: The-Campaigns-of-the-British-Army-at-Washington-and-New-Orleans-1814-1815_18479
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gleig, G. R. (George Robert)
+    alias: Gleig, George Robert
+    birthdate: 1796
+    deathdate: 1888
+    gutenberg_agent_id: '8056'
+    url: http://www.gutenberg.org/2009/agents/8056
+    wikipedia: http://en.wikipedia.org/wiki/George_Robert_Gleig
+description: ''
+gutenberg_issued: '2006-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Orleans, Battle of, New Orleans, La., 1815'
+- !lcsh 'United States -- History -- War of 1812 -- Personal narratives'
+- !lcsh 'United States -- History -- War of 1812 -- Campaigns'
+- !lcsh 'Washington (D.C.) -- History -- Capture by the British, 1814'
+- !lcc 'E300'
+title: The Campaigns of the British Army at Washington and New Orleans 1814-1815
+url: http://www.gutenberg.org/ebooks/18479
